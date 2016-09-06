@@ -36,3 +36,8 @@ jacocoTestReport {
         html.enabled false
     }
 }
+
+codenarc {
+    ignoreFailures = true
+    reportFormat = 'xml'
+}
