@@ -6,7 +6,7 @@ package com.ns
  * @author apimentel, @date 9/6/16 12:05 PM
  */
 class Library {
-    private static String hello = "Hello "
+    private static String hello = "Hello"
     String helloWorld(String name) {
         hello+name;
     }
